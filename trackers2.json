@@ -751,11 +751,6 @@
       "type": "Movies, TV, Audio, General"
     },
     {
-      "name": "La Cale (API)",
-      "description": "La Cale is a FRENCH Private Torrent Tracker for MOVIES / TV / GENERAL",
-      "type": "General, Books, Audio, PC, Console, Movies, TV, XXX"
-    },
-    {
       "name": "lajidui",
       "description": "lajidui is a CHINESE Private Torrent Tracker for MOVIES / TV / GENERAL",
       "type": "Movies, TV, Audio, General, Books, PC"
@@ -961,11 +956,6 @@
       "type": "Movies, TV, PC, Audio, Books, XXX"
     },
     {
-      "name": "NORDiCHD",
-      "description": "NORDiCHD is a Mixed NORDIC Private Tracker for MOVIES / TV / GENERAL",
-      "type": "Movies, TV, Audio"
-    },
-    {
       "name": "NordicQuality (API)",
       "description": "NordicQuality is a NORDIC Private Torrent Tracker for MOVIES / TV / GENERAL",
       "type": "Audio, Books, Console, Movies, PC, TV, XXX"
@@ -1034,6 +1024,11 @@
       "name": "Peeratiko",
       "description": "Peeratiko is a GREEK Private Torrent Tracker for MOVIES / TV / GENERAL",
       "type": "PC, Books, Console, Movies, Audio, General, TV"
+    },
+    {
+      "name": "PeerGarden",
+      "description": "PeerGarden (PG) is a Private Torrent Tracker for MOVIES / TV / GENERAL",
+      "type": "Movies, TV, PC, Audio, Books"
     },
     {
       "name": "Peers.FM",
@@ -1474,6 +1469,11 @@
       "name": "Torrent.LT",
       "description": "Torrent.LT is a LITHUANIAN Private Torrent Tracker for 0DAY / GENERAL",
       "type": "Movies, TV, PC, Console, Audio, Books, General, XXX"
+    },
+    {
+      "name": "TorrentAvenue (API)",
+      "description": "TorrentAvenue is a Private Torrent Tracker for MOVIES / TV / GENERAL",
+      "type": "Movies, TV, Audio, PC, Console"
     },
     {
       "name": "TorrentCCF",
