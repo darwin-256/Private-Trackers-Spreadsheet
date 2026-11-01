@@ -241,11 +241,6 @@
       "type": "Movies, TV, PC, Books, General, Audio, XXX"
     },
     {
-      "name": "BlueBird",
-      "description": "BlueBird is a RUSSIAN Private Torrent Tracker for HD MOVIES",
-      "type": "Movies, TV, Audio, XXX, General"
-    },
-    {
       "name": "BlueTorrents",
       "description": "BlueTorrents is a Private Torrent Tracker for MOVIES / TV / MUSIC / GENERAL",
       "type": "Movies, TV, Console, Audio, PC, XXX, General, Books"
@@ -426,6 +421,11 @@
       "type": "Movies, TV, Audio, General"
     },
     {
+      "name": "Deep-Water (API)",
+      "description": "Deep-Water is a GERMAN Private Torrent Tracker for MOVIES / TV / GENERAL",
+      "type": "Movies, TV, XXX, PC, Console"
+    },
+    {
       "name": "Depth Studio",
       "description": "Depth Studio is a CHINESE Private Torrent Tracker for MOVIES / TV / GENERAL",
       "type": "Movies, TV, Audio, General"
@@ -599,6 +599,11 @@
       "name": "Girotorrent",
       "description": "Girotorrent is an ITALIAN Private Torrent Tracker for MOVIES / TV / GENERAL",
       "type": "Books, Audio, Movies, TV, PC, Console, General"
+    },
+    {
+      "name": "Golden Gate (GG)",
+      "description": "Golden Gate (GG) is a Private GERMAN tracker for MOVIES / TV / GENERAL",
+      "type": "Movies, TV, Books, Audio, Console, PC, XXX"
     },
     {
       "name": "HaiDan",
@@ -1191,6 +1196,11 @@
       "type": "PC, Audio, Console, Books, Movies, TV, XXX"
     },
     {
+      "name": "Pornorip",
+      "description": "Pornorip is a Private Torrent Tracker for 3X DVD",
+      "type": "XXX"
+    },
+    {
       "name": "Portugas (API)",
       "description": "Portugas is a PORTUGUESE Private Torrent Tracker for 0DAY / GENERAL",
       "type": "Movies, TV, Audio, PC, XXX, Books"
@@ -1269,11 +1279,6 @@
       "name": "PTTime",
       "description": "PTTime is a ratioless CHINESE Private Torrent Tracker for HD MOVIES / TV / GENERAL",
       "type": "Movies, TV, PC, Audio, General, XXX"
-    },
-    {
-      "name": "PTYING (樱花)",
-      "description": "PTYING (樱花) is a CHINESE Private Torrent Tracker for MOVIES / TV / GENERAL",
-      "type": "General, Audio, TV, Movies"
     },
     {
       "name": "PTzone",
@@ -1379,6 +1384,11 @@
       "name": "Rousi.pro",
       "description": "Rousi.pro is a CHINESE Private Torrent Tracker for MOVIES / TV / GENERAL",
       "type": "Movies, TV, Audio, PC, Books, XXX, General"
+    },
+    {
+      "name": "Sagmire",
+      "description": "Sagmire is a Private Torrent Tracker for XXX",
+      "type": "XXX"
     },
     {
       "name": "SAMARITANO (API)",
@@ -1519,11 +1529,6 @@
       "name": "TeamOS",
       "description": "Team OS is a Private Torrent Tracker for SOFTWARE",
       "type": "PC, Books, General"
-    },
-    {
-      "name": "The Brothers",
-      "description": "The Brothers is a Private GERMAN tracker for MOVIES / TV / GENERAL",
-      "type": "Movies, TV, Books, Audio, Console, PC, XXX"
     },
     {
       "name": "The Crazy Ones",
